@@ -1,0 +1,6 @@
+Trip ID,Vehicle ID,Driver ID,Route,Distance (km),Fuel Consumed (L),Efficiency (km/l),Date
+T001,V001,D001,Bangalore -> Mysore,150,15,10.0,2026-06-10
+T002,V002,D002,Bangalore -> Chennai,350,28,12.5,2026-06-11
+T003,V003,D003,Bangalore -> Hyderabad,570,60,9.5,2026-06-12
+T004,V001,D001,Bangalore -> Coimbatore,365,35,10.43,2026-06-13
+T005,V004,D002,Bangalore -> Tumkur,70,10,7.0,2026-06-14

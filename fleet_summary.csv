@@ -1,0 +1,5 @@
+Vehicle ID,Name,Type,Status,Total KM,Fuel Used,Avg Efficiency (km/l)
+V001,Tata Ace,Truck,Available,515,50,10.3
+V002,Maruti Van,Van,Available,350,28,12.5
+V003,Ashok Leyland,Truck,Available,570,60,9.5
+V004,Tata Nexon EV,Car,Available,70,10,7.0
